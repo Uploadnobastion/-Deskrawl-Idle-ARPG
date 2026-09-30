@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=74&pause=240&color=00CED1&center=true&vCenter=true&width=1580&lines=TRANSPORT+FEVER+3+HACK+2026;MONEY+•+SPEED+•+CONSOLE;DOMINATE+THE+TRANSPORT+EMPIRE" alt="Transport Fever 3 Hack 2026" />
 </div>
 
 <br/>
